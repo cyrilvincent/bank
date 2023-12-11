@@ -6,7 +6,6 @@ import sklearn.linear_model as lm
 import sklearn.neighbors as nn
 import sklearn.svm as svm
 import pickle
-import matplotlib.pyplot as plt
 
 random.seed(0)
 

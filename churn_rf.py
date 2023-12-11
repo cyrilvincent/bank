@@ -23,7 +23,6 @@ print(xtrain.shape, xtest.shape)
 model = rf.RandomForestClassifier()
 model.fit(xtrain, ytrain)
 print(f"Score: {model.score(xtest, ytest)}")
-
 with open("data/churn/churn_rf.pickle", "wb") as f:
     pickle.dump((scaler, model), f)
 
