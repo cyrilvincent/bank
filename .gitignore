@@ -1,0 +1,9 @@
+*.large.*
+*large*
+large/**
+*ckpt*.*
+logs/**
+.ipynb**/**
+vgg16model*.h5
+*.env
+.idea/**
