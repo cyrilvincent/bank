@@ -1,3 +1,0 @@
-https://www.kaggle.com/code/aleksandradeis/bank-marketing-analysis/input
-https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing
-https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset/data
