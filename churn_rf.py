@@ -15,7 +15,7 @@ x = df.drop(["Exited"], axis=1)
 
 scaler = pp.RobustScaler()
 scaler.fit(x.values)
-x = scaler.transform(x)
+x = scaler.transform(x.values)
 
 xtrain, xtest, ytrain, ytest = ms.train_test_split(x, y, train_size=0.8, test_size=0.2)
 print(xtrain.shape, xtest.shape)
