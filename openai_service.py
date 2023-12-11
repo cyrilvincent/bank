@@ -44,6 +44,7 @@ if __name__ == '__main__':
     print("OpenAI test")
     openai = OpenAIService(whisper_model="base")
     time0 = datetime.datetime.now()
+
     # res = openai.mp3_to_text("data/openai/bank.mp3")
     # print(res.strip())
     # with open("data/openai/bank.txt", "w") as f:
