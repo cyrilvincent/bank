@@ -4,7 +4,6 @@ import sklearn.model_selection as ms
 import random
 import sklearn.neural_network as nn
 import pickle
-import matplotlib.pyplot as plt
 from sklearn.metrics import classification_report
 
 random.seed(0)

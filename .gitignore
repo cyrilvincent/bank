@@ -7,3 +7,7 @@ logs/**
 vgg16model*.h5
 *.env
 .idea/**
+temp/**
+**/*.env
+
+
