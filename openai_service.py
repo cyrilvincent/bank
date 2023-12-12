@@ -34,7 +34,14 @@ class OpenAIService:
             s+="avec un vocabulaire bancaire"
         completion = self.client.chat.completions.create(
             model=self.chat_model,
-            # response_format={"type": "json_object"},
+            messages=[{"role": "system", "content": s},
+                      {"role": "user", "content": text}])
+        return completion.choices[0].message.content
+
+    def translate(self, text: str, langue="anglais") -> str:
+        s = f"Traduis moi ce texte en {langue}"
+        completion = self.client.chat.completions.create(
+            model=self.chat_model,
             messages=[{"role": "system", "content": s},
                       {"role": "user", "content": text}])
         return completion.choices[0].message.content
@@ -61,6 +68,16 @@ if __name__ == '__main__':
     print(summary)
     with open(f"data/openai/summary5.txt", "w") as f:
         f.write(summary)
+
+    summary_english = openai.translate(summary)
+    print(summary_english)
+    with open(f"data/openai/summary_english.txt", "w") as f:
+        f.write(summary_english)
+
+    summary_jpn = openai.translate(summary, "japonais")
+    print(summary_jpn)
+    with open(f"data/openai/summary_jpn.txt", "wb") as f:
+        f.write(summary_jpn.encode("utf-8"))
 
     print(datetime.datetime.now() - time0)
 
