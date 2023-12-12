@@ -9,5 +9,6 @@ vgg16model*.h5
 .idea/**
 temp/**
 **/*.env
-creditcard.csv
+**/creditcard.csv
+**/loan.csv
 
