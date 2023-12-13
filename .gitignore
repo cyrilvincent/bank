@@ -11,4 +11,5 @@ temp/**
 **/*.env
 **/creditcard.csv
 **/loan.csv
+**/*.pickle
 
