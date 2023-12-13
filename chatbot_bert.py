@@ -1,10 +1,7 @@
 import csv
 import pickle
-from dataclasses import dataclass, field
-from typing import List, Tuple
-
+from typing import List
 import numpy as np
-import pandas as pd
 import os
 import tempfile
 import tensorflow_hub as hub
@@ -20,7 +17,7 @@ class Item:
     def __init__(self, question, answer):
         self.question = question
         self.answer = answer
-        self.embed: List[float] = []
+        self.embed = None
 
 class BertUseService:
 
@@ -28,17 +25,16 @@ class BertUseService:
         self.items: List[Item] = []
 
     def embed(self, s: str):
-        return list(model([s])[0])
+        return model([s])[0].numpy()
 
     def score(self, l1: List[float], l2: List[float]) -> float:
-        return np.inner(np.array(l1), np.array(l2))
+        return np.inner(l1, l2)
 
     def train(self, path: str):
         print("Training")
         with open(path, encoding="utf-8") as f:
             reader = csv.DictReader(f, delimiter="|")
             for row in reader:
-                print(".", end="")
                 q = row["question"]
                 r = row["answer"]
                 if r is not None and r.strip() != "":

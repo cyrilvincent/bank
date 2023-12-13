@@ -1,23 +1,24 @@
 question|answer
 bonjour|Comment allez vous?
-salut comment vas-tu?|je vais bien. et toi
-je vais bien. et toi?|Je suis assez bon. Merci d'avoir posé la question.
-Je suis assez bon.|Merci d'avoir posé la question aucun problème Alors, comment avez-vous été? 
-aucun problème. Alors, comment avez-vous été?|j'ai été génial. et toi
-j'ai été génial. et toi ?|J'ai été bon. je suis à l'école en ce moment.
-J'ai été bon.|je suis à l'école en ce moment A quelle école vas-tu? 
-A quelle école vas-tu?|je vais au PCC.
+salut comment vas-tu?|je vais bien, et toi
+je vais bien. et toi?|Je suis assez bien. Merci d'avoir posé la question.
+Je suis assez bien.|Merci d'avoir posé la question aucun problème Alors, comment allez vous? 
+aucun problème. Alors, comment allez vous?|je vais super bien, et toi
+Je vais bien, et toi ?|Ca va. je suis à la banque en ce moment.
+je suis à la banque| A quelle banque vas-tu?
+je suis à la banque en ce moment| A quelle banque vas-tu?
+A quelle banque vas-tu?|je vais au PCC.
 je vais au PCC.|est-ce que tu aimes ça là-bas ? 
-est-ce que tu aimes ça là-bas ?|C'est bon. c'est un très grand campus.
-C'est bon.|c'est un très grand campus bonne chance avec l'école 
-bonne chance avec l'école.|merci beaucoup 
+est-ce que tu aimes ça là-bas ?|C'est bien, c'est une très grande banque.
+C'est bon.|c'est un très grand campus bonne chance avec la banque 
+bonne chance avec la banque.|merci beaucoup 
 comment ça va?|je vais bien. et toi
-je vais bien. et toi ?|jamais mieux, merci.
+je vais bien. et toi ?|je vais mieux, merci.
 jamais mieux, merci.|alors comment vas-tu ces derniers temps ? 
-alors comment vas-tu ces derniers temps ?|en fait, j'ai été plutôt bon. toi
-en fait, j'ai été plutôt bon. toi ?|en fait, je suis à l'école en ce moment.
-en fait, je suis à l'école en ce moment.|quelle école fréquentes-tu ? 
-quelle école fréquentes-tu ?|je suis au PCC en ce moment.
+alors comment vas-tu ces derniers temps ?|en fait, je suis plutôt bien
+en fait, j'ai été plutôt bon. toi ?|en fait, je suis à la banque en ce moment.
+en fait, je suis à la banque en ce moment.|quelle banque fréquentes-tu ? 
+quelle banque fréquentes-tu ?|je suis au PCC en ce moment.
 je suis au PCC en ce moment.|est-ce que tu apprécies là-bas ? 
 est-ce que tu apprécies là-bas ?|Ce n'est pas mauvais. il y a beaucoup de monde là-bas.
 Ce n'est pas mauvais.|il y a beaucoup de monde là-bas bonne chance avec ça 
@@ -26,9 +27,9 @@ comment vas-tu aujourd'hui?|je le fais bien. et toi
 je le fais bien. et toi ?|je suis absolument adorable, merci.
 je suis absolument adorable, merci.|tout va bien pour toi ? 
 tout va bien pour toi ?|je n'ai pas été mieux. et toi
-je n'ai pas été mieux. et toi?|j'ai commencé l'école récemment.
-j'ai commencé l'école récemment.|où vas-tu à l'école ? 
-où vas-tu à l'école ?|je vais au PCC.
+je n'ai pas été mieux. et toi?|j'ai commencé la banque récemment.
+j'ai commencé la banque récemment.|où vas-tu à la banque ? 
+où vas-tu à la banque ?|je vais au PCC.
 je vais au PCC.|Ça vous plaît pour l'instant? 
 Ça vous plaît pour l'instant?|je l'aime jusqu'à présent. mes cours sont plutôt bons en ce moment.
 je l'aime jusqu'à présent.|mes cours sont plutôt bons en ce moment je te souhaite bonne chance 
@@ -97,7 +98,7 @@ tu veux faire quelque chose demain ?|Y a-t-il un endroit spécial où tu voulais
 Y a-t-il un endroit spécial où tu voulais aller ?|que diriez-vous d'un film
 que diriez-vous d'un film ?|un film à l'air bien.
 un film à l'air bien.|appelle-moi demain alors 
-as-tu vu la nouvelle fille à l'école ?|non, je ne l'ai pas fait.
+as-tu vu la nouvelle fille à la banque ?|non, je ne l'ai pas fait.
 non, je ne l'ai pas fait.|elle est vraiment jolie 
 elle est vraiment jolie.|décris-la-moi 
 décris-la-moi.|elle n'est pas trop grande 
@@ -108,7 +109,7 @@ Mais à quoi ressemble-t-elle ?|elle a de jolis yeux marron clair.
 elle a de jolis yeux marron clair.|je sais peut-être de quelle fille tu parles 
 je sais peut-être de quelle fille tu parles.|alors tu l'as vue dans le coin ? 
 alors tu l'as vue dans le coin ?|Oui j'ai.
-il y a une nouvelle fille à l'école, tu l'as déjà vue ?|je ne l'ai pas encore vue.
+il y a une nouvelle fille à la banque, tu l'as déjà vue ?|je ne l'ai pas encore vue.
 je ne l'ai pas encore vue.|je pense qu'elle est très jolie 
 quelle taille fait-elle ?|elle mesure probablement environ cinq pieds.
 elle mesure probablement environ cinq pieds.|c'est sympa, mais dis-moi à quoi elle ressemble 
@@ -152,8 +153,8 @@ c'était mon cours préféré.|il faut être talentueux
 es-tu allé au match de basket vendredi ?|non, je n'ai pas pu venir.
 non, je n'ai pas pu venir.|tu as raté un très bon match 
 tu as raté un très bon match. oh vraiment?|qui a gagné
-oh vraiment?|qui a gagné? notre école l’a fait. ils ont vraiment bien joué.
-notre école l’a fait.|ils ont vraiment bien joué dommage que j'étais occupé je voulais vraiment y aller 
+oh vraiment?|qui a gagné? notre banque l’a fait. ils ont vraiment bien joué.
+notre banque l’a fait.|ils ont vraiment bien joué dommage que j'étais occupé je voulais vraiment y aller 
 dommage que j'étais occupé.|je voulais vraiment y aller ouais, tu aurais dû c'était vraiment excitant 
 ouais, tu aurais dû.|c'était vraiment excitant alors quel est le score? 
 alors quel est le score?|le score était de 101-98.
@@ -206,26 +207,26 @@ quel film vous et votre ami comptez regarder ?|pas certain. y a-t-il un film qui
 pas certain. y a-t-il un film qui attire votre attention ?|aucun bon film ne me vient à l’esprit.
 aucun bon film ne me vient à l’esprit.|as-tu décidé si tu souhaites y aller ou non ? 
 as-tu décidé si tu souhaites y aller ou non ?|non merci. peut-être une autre fois.
-Es-tu allé à l'école aujourd'hui?|ouais, je suis allé à l'école aujourd'hui. Étiez-vous là
-ouais, je suis allé à l'école aujourd'hui. Étiez-vous là?|non, je n'y suis pas allé, j'ai été malade.
+Es-tu allé à la banque aujourd'hui?|ouais, je suis allé à la banque aujourd'hui. Étiez-vous là
+ouais, je suis allé à la banque aujourd'hui. Étiez-vous là?|non, je n'y suis pas allé, j'ai été malade.
 non, je n'y suis pas allé, j'ai été malade.|ça craint tu voulais les devoirs du cours d'anglais ? 
 ça craint. tu voulais les devoirs du cours d'anglais ?|ce serait sympa, merci.
 ce serait sympa, merci.|pas de problème, de rien 
 pas de problème, de rien.|je serai heureux de faire la même chose pour toi lorsque tu seras malade 
-je serai heureux de faire la même chose pour toi lorsque tu seras malade.|bien merci j'espère te voir à l'école demain 
-es-tu allé à l'école aujourd'hui ?|j'ai été à l'école aujourd'hui. as-tu
-j'ai été à l'école aujourd'hui. as-tu?|je n'ai pas pu aller à l'école parce que je me sentais malade.
-je n'ai pas pu aller à l'école parce que je me sentais malade.|je suis désolé d'entendre ça Voudriez-vous les devoirs du cours d'anglais ? 
+je serai heureux de faire la même chose pour toi lorsque tu seras malade.|bien merci j'espère te voir à la banque demain 
+es-tu allé à la banque aujourd'hui ?|j'ai été à la banque aujourd'hui. as-tu
+j'ai été à la banque aujourd'hui. as-tu?|je n'ai pas pu aller à la banque parce que je me sentais malade.
+je n'ai pas pu aller à la banque parce que je me sentais malade.|je suis désolé d'entendre ça Voudriez-vous les devoirs du cours d'anglais ? 
 je suis désolé d'entendre ça. Voudriez-vous les devoirs du cours d'anglais ?|j'apprécierais vraiment cela, merci.
 j'apprécierais vraiment cela, merci.|ce n'est pas un problème du tout 
 ce n'est pas un problème du tout.|si vous tombez malade, je vous rendrai la pareille 
-si vous tombez malade, je vous rendrai la pareille.|merci on se verra demain à l'école si tu te sens mieux 
-es-tu allé à l'école aujourd'hui ?|je suis allé à l'école aujourd'hui. êtes-vous allé à l'école
-je suis allé à l'école aujourd'hui. êtes-vous allé à l'école?|je ne pouvais pas aller à l'école aujourd'hui, j'étais malade.
-je ne pouvais pas aller à l'école aujourd'hui, j'étais malade.|c'est horrible je serais heureux de vous donner les devoirs du cours d'anglais 
+si vous tombez malade, je vous rendrai la pareille.|merci on se verra demain à la banque si tu te sens mieux 
+es-tu allé à la banque aujourd'hui ?|je suis allé à la banque aujourd'hui. êtes-vous allé à la banque
+je suis allé à la banque aujourd'hui. êtes-vous allé à la banque?|je ne pouvais pas aller à la banque aujourd'hui, j'étais malade.
+je ne pouvais pas aller à la banque aujourd'hui, j'étais malade.|c'est horrible je serais heureux de vous donner les devoirs du cours d'anglais 
 c'est horrible.|je serais heureux de vous donner les devoirs du cours d'anglais merci beaucoup, c'est gentil de votre part 
 merci beaucoup, c'est gentil de votre part.|n'en parle pas 
-n'en parle pas.|lorsque vous manquerez un jour d'école, je me ferai un plaisir de vous donner les devoirs d'anglais 
+n'en parle pas.|lorsque vous manquerez un jour d'banque, je me ferai un plaisir de vous donner les devoirs d'anglais 
 as-tu entendu la nouvelle ?|ce qui s'est passé
 ce qui s'est passé?|notre cousine a commencé à accoucher et a accouché la semaine dernière.
 notre cousine a commencé à accoucher et a accouché la semaine dernière. elle l'a fait ?|pourquoi personne ne me l'a dit
@@ -256,7 +257,7 @@ elle était mignonne et pesait 8 livres 6 onces.|wow, comme c'est excitant
 Ouah,.|
 je sais, tu devrais vraiment aller la voir avec le bébé.|bien sur 
 bien sur.|je voulais juste te dire ce qui s'est passé 
-Es-tu allé à l'école aujourd'hui?|bien sûr. as-tu
+Es-tu allé à la banque aujourd'hui?|bien sûr. as-tu
 bien sûr. as-tu?|je ne voulais pas, donc je ne l'ai pas fait.
 je ne voulais pas, donc je ne l'ai pas fait.|c'est triste, mais es-tu allé au cinéma récemment ? 
 c'est triste, mais es-tu allé au cinéma récemment ?|c'est un interrupteur.
@@ -265,10 +266,10 @@ je suis sérieux, et toi ?|non, je ne l'ai pas fait. pourquoi
 non, je ne l'ai pas fait. pourquoi ?|je veux vraiment aller au cinéma ce week-end.
 je veux vraiment aller au cinéma ce week-end.|alors vas-y alors 
 alors vas-y alors.|je ne veux vraiment pas y aller seul 
-je ne veux vraiment pas y aller seul.|bon, de toute façon, tu comptes aller à l'école demain ? 
-bon, de toute façon, tu comptes aller à l'école demain ?|non, je pense que je vais aller au cinéma.
-es-tu arrivé à l'école aujourd'hui ?|je fais toujours. Es-tu allé à l'école aujourd'hui
-je fais toujours. Es-tu allé à l'école aujourd'hui?|non, je ne l'ai pas fait.
+je ne veux vraiment pas y aller seul.|bon, de toute façon, tu comptes aller à la banque demain ? 
+bon, de toute façon, tu comptes aller à la banque demain ?|non, je pense que je vais aller au cinéma.
+es-tu arrivé à la banque aujourd'hui ?|je fais toujours. Es-tu allé à la banque aujourd'hui
+je fais toujours. Es-tu allé à la banque aujourd'hui?|non, je ne l'ai pas fait.
 non, je ne l'ai pas fait.|tu aurais dû, mais as-tu vu des films récemment ? 
 tu aurais dû, mais as-tu vu des films récemment ?|c'était un étrange changement de sujet.
 c'était un étrange changement de sujet.|c'était peut-être le cas, mais répondez à la question 
@@ -276,9 +277,9 @@ c'était peut-être le cas, mais répondez à la question.|non, pas récemment
 non, pas récemment.|je veux aller voir un film ce week-end 
 je veux aller voir un film ce week-end.|qu'est-ce qui t'arrête alors ? 
 qu'est-ce qui t'arrête alors ?|je ne veux pas y aller seul.
-je ne veux pas y aller seul.|alors, tu seras à l'école demain ? 
-alors, tu seras à l'école demain ?|non, je veux plutôt aller au cinéma.
-as-tu au moins pris la peine d'aller à l'école aujourd'hui ?|ouais, j'y suis allé. Es-tu allé
+je ne veux pas y aller seul.|alors, tu seras à la banque demain ? 
+alors, tu seras à la banque demain ?|non, je veux plutôt aller au cinéma.
+as-tu au moins pris la peine d'aller à la banque aujourd'hui ?|ouais, j'y suis allé. Es-tu allé
 ouais, j'y suis allé. Es-tu allé?|non, je n'en avais pas envie.
 non, je n'en avais pas envie.|c'est sympa, es-tu allé au cinéma récemment ? 
 c'est sympa, es-tu allé au cinéma récemment ?|non, mais c'était un changement de sujet aléatoire.
@@ -1120,8 +1121,8 @@ probablement pas.|
 les poèmes sont un peu comme les chansons.|oui, mais les chansons ont de la musique sans musique, les chansons aussi seraient nulles 
 à quel point es-tu intelligent ?|je ne sais pas. je pense que je suis moyen.
 je ne sais pas.|je pense que je suis moyen as-tu déjà fait un test de QI ? 
-as-tu déjà fait un test de QI ?|non, je ne l'ai jamais fait. tout ce que je sais, c'est que j'ai eu des A et des B à l'école.
-non, je ne l'ai jamais fait.|tout ce que je sais, c'est que j'ai eu des A et des B à l'école j'aurais aimé être vraiment intelligent 
+as-tu déjà fait un test de QI ?|non, je ne l'ai jamais fait. tout ce que je sais, c'est que j'ai eu des A et des B à la banque.
+non, je ne l'ai jamais fait.|tout ce que je sais, c'est que j'ai eu des A et des B à la banque j'aurais aimé être vraiment intelligent 
 j'aurais aimé être vraiment intelligent.|ne sois pas ridicule 
 ne sois pas ridicule.|que veux-tu dire ? 
 que veux-tu dire ?|si vous voulez faire un vœu, souhaitez être vraiment riche ou célèbre.
@@ -1212,7 +1213,7 @@ il vous donnera une ordonnance pour des lunettes.|je prendrai rendez-vous demain
 je prendrai rendez-vous demain.|je vais chercher les pages jaunes pour un ophtalmologiste 
 je vais chercher les pages jaunes pour un ophtalmologiste.|lisez-moi le numéro de téléphone 
 lisez-moi le numéro de téléphone.|je vais le lire très fort, au cas où ton audition se détériorerait également 
-de quoi as-tu besoin pour l'école ?|j'ai besoin de crayons.
+de quoi as-tu besoin pour la banque ?|j'ai besoin de crayons.
 j'ai besoin de crayons.|rien d'autre? 
 rien d'autre?|j'ai besoin d'un cahier.
 j'ai besoin d'un cahier.|as-tu besoin d'un stylo ? 
@@ -1276,13 +1277,13 @@ je ne le savais pas.|j'ai commencé à enseigner il y a cinq ans
 j'ai commencé à enseigner il y a cinq ans.|Comment l'aimez-vous? 
 Comment l'aimez-vous?|tu vois tous ces cheveux gris? c'était totalement noir il y a cinq ans.
 tu vois tous ces cheveux gris ?|c'était totalement noir il y a cinq ans. peut-être que j'enseignerai au collège.
-le stationnement à l'école est impossible.|je dirai 
+le stationnement à la banque est impossible.|je dirai 
 j'ai roulé pendant une demi-heure.|as-tu trouvé une place ? 
 as-tu trouvé une place ?|J'ai trouvé une place, mais quelqu'un est intervenu et me l'a prise.
 J'ai trouvé une place, mais quelqu'un est intervenu et me l'a prise.|tu leur as crié dessus ? 
 quand j'ai besoin de quelque chose.|comme quoi? 
-comme quoi?|eh bien, si j'ai un gros examen à l'école.
-Bien, si j'ai un gros examen à l'école.|Dieu répond-il à vos prières ? 
+comme quoi?|eh bien, si j'ai un gros examen à la banque.
+Bien, si j'ai un gros examen à la banque.|Dieu répond-il à vos prières ? 
 tu leur as crié dessus ?|Oui je l'ai fait.
 Oui je l'ai fait.|et? 
 et?|et il m'a crié dessus.
@@ -1305,8 +1306,8 @@ je peux en ajouter deux et deux.|donc tu n'es pas très bon en maths ?
 donc tu n'es pas très bon en maths ?|je suis nul en maths.
 je suis nul en maths.|eh bien, j'ai besoin d'aide 
 eh bien, j'ai besoin d'aide.|avec quoi? 
-avec quoi?|je prends un cours de mathématiques à l'école.
-je prends un cours de mathématiques à l'école.|eh bien, vous devriez demander de l'aide à votre professeur ou à vos camarades de classe 
+avec quoi?|je prends un cours de mathématiques à la banque.
+je prends un cours de mathématiques à la banque.|eh bien, vous devriez demander de l'aide à votre professeur ou à vos camarades de classe 
 eh bien, vous devriez demander de l'aide à votre professeur ou à vos camarades de classe.|je ne peux pas faire ça 
 je ne peux pas faire ça.|pourquoi pas? 
 pourquoi pas?|ils pourraient penser que je suis stupide.
@@ -1350,7 +1351,7 @@ tu as raison.|les bus ne circulent pas tard le soir numéro quatre, il y a trop 
 numéro quatre, il y a trop de monde.|tu as raison vous devez vous tenir dans l'allée 
 tu as raison.|vous devez vous tenir dans l'allée numéro cinq, c'est dangereux 
 numéro cinq, c'est dangereux.|tu as raison les méchants pourraient vous voler 
-nous avons eu un problème à l'école.|quel était le problème? 
+nous avons eu un problème à la banque.|quel était le problème? 
 quel était le problème?|quelqu'un a coupé les pneus.
 quelqu'un a coupé les pneus.|quels pneus ? 
 quels pneus ?|les pneus des voitures.
@@ -1492,7 +1493,7 @@ alors pourquoi as-tu pris un ticket ?|l'officier a dit que la main rouge clignai
 l'officier a dit que la main rouge clignait.|est-ce qu'il clignotait lorsque vous êtes entré dans le passage pour piétons ? 
 est-ce qu'il clignotait lorsque vous êtes entré dans le passage pour piétons ?|non, le panneau blanc de marche clignotait.
 non, le panneau blanc de marche clignotait.|tu devrais combattre ce ticket je serai votre témoin 
-ils étaient dans un passage pour piétons près de l'école à 3 heures du matin, qui ?.|
+ils étaient dans un passage pour piétons près de la banque à 3 heures du matin, qui ?.|
 OMS?|deux étudiants de l'USC.
 deux étudiants de l'USC.|ce qui s'est passé? 
 ce qui s'est passé?|une voiture roulant à grande vitesse a allumé un feu rouge, tuant la jeune fille.
@@ -1563,7 +1564,7 @@ c'est ce que tout le monde dit.|ça pourrait aussi bien être moi
 c'est ce que tout le monde dit.|tu essaies de me dire quelque chose 
 tu essaies de me dire quelque chose.|cela n'a pas pris longtemps 
 cela n'a pas pris longtemps.|tu penses que je devrais arrêter de jouer 
-tu penses que je devrais arrêter de jouer.|économisez votre argent pour l’école 
+tu penses que je devrais arrêter de jouer.|économisez votre argent pour l’banque 
 ce qui est à la télé?|pas grand chose.
 pas grand chose.|et le match de baseball ? 
 et le match de baseball ?|il a plu.
@@ -2279,13 +2280,13 @@ est-ce que tes chaussettes sont assorties ?|bien sûr, ils correspondent.
 bien sûr, ils correspondent.|non, ils ne le font pas l'un est noir et l'autre est bleu foncé 
 non, ils ne le font pas.|l'un est noir et l'autre est bleu foncé ouais! merci 
 la vie est dure.|Tout à fait 
-Tout à fait.|je pensais que l'école était difficile 
-je pensais que l'école était difficile.|moi aussi j'avais hâte d'obtenir mon diplôme 
+Tout à fait.|je pensais que la banque était difficile 
+je pensais que la banque était difficile.|moi aussi j'avais hâte d'obtenir mon diplôme 
 moi aussi.|j'avais hâte d'obtenir mon diplôme mais maintenant, le travail est aussi dur 
-mais maintenant, le travail est aussi dur.|je suis d'accord le travail est aussi dur que l'école 
-je suis d'accord.|le travail est aussi dur que l'école parfois j'aimerais être de retour à l'école 
-parfois j'aimerais être de retour à l'école.|moi aussi l'école était amusante 
-moi aussi.|l'école était amusante et ce n'était que 12 ans 
+mais maintenant, le travail est aussi dur.|je suis d'accord le travail est aussi dur que la banque 
+je suis d'accord.|le travail est aussi dur que la banque parfois j'aimerais être de retour à la banque 
+parfois j'aimerais être de retour à la banque.|moi aussi la banque était amusante 
+moi aussi.|la banque était amusante et ce n'était que 12 ans 
 et ce n'était que 12 ans.|c'est passé assez vite 
 c'est passé assez vite.|mais le travail continue éternellement ! 
 mais le travail continue éternellement ! il faut travailler 30 ans !.|
@@ -2748,20 +2749,20 @@ oui, avec les instructions aux électeurs.|comment vas-tu voter ?
 comment vas-tu voter ?|comme toujours, par courrier. tout ce que ça me coûte, c'est un timbre de 42 cents.
 comme toujours, par courrier.|tout ce que ça me coûte, c'est un timbre de 42 cents je voulais dire, allez-vous voter pour ou contre les nouvelles taxes ? 
 je voulais dire, allez-vous voter pour ou contre les nouvelles taxes ?|contre eux tous, bien sûr.
-contre eux tous, bien sûr.|mais nous avons besoin de nouveaux impôts pour financer les autoroutes, les écoles et les prisons 
-mais nous avons besoin de nouveaux impôts pour financer les autoroutes, les écoles et les prisons.|nous avons déjà voté pour de nouvelles taxes pour payer tout ça ! 
+contre eux tous, bien sûr.|mais nous avons besoin de nouveaux impôts pour financer les autoroutes, les banques et les prisons 
+mais nous avons besoin de nouveaux impôts pour financer les autoroutes, les banques et les prisons.|nous avons déjà voté pour de nouvelles taxes pour payer tout ça ! 
 nous avons déjà voté pour de nouvelles taxes pour payer tout ça ! c'est vrai.|Où est parti cet argent? 
 c'est vrai. Où est parti cet argent?|nos législateurs l'ont dépensé en voyages en première classe partout dans le monde.
 nos législateurs l'ont dépensé en voyages en première classe partout dans le monde.|ils passent un bon moment avec notre argent 
 ils passent un bon moment avec notre argent.|alors quand allons-nous arrêter de leur en donner plus ? 
 avez-vous décidé comment vous allez voter ?|tu veux dire sur les mesures 1, 2 et 3
-tu veux dire sur les mesures 1, 2 et 3 ?|Oui. ceux qui amélioreront nos écoles, nos routes et nos hôpitaux.
-Oui.|ceux qui amélioreront nos écoles, nos routes et nos hôpitaux vous parlez des mesures qui augmenteront nos impôts 
+tu veux dire sur les mesures 1, 2 et 3 ?|Oui. ceux qui amélioreront nos banques, nos routes et nos hôpitaux.
+Oui.|ceux qui amélioreront nos banques, nos routes et nos hôpitaux vous parlez des mesures qui augmenteront nos impôts 
 vous parlez des mesures qui augmenteront nos impôts.|mais les publicités télévisées disent que nos impôts n’augmenteront pas 
 mais les publicités télévisées disent que nos impôts n’augmenteront pas.|tu crois aux publicités télévisées ? 
 tu crois aux publicités télévisées ?|j'aime celui où le pompier nous dit pourquoi on devrait voter oui.
 j'aime celui où le pompier nous dit pourquoi on devrait voter oui.|ne le crois pas ! quoi que vous disent les publicités télévisées, c’est le contraire qui est vrai 
-ne le crois pas ! quoi que vous disent les publicités télévisées, c’est le contraire qui est vrai.|mais le titre de la mesure 1 est « de meilleures écoles, sans frais » 
+ne le crois pas ! quoi que vous disent les publicités télévisées, c’est le contraire qui est vrai.|mais le titre de la mesure 1 est « de meilleures banques, sans frais » 
 je ne peux pas croire qu'ils nous mentiraient.|bien sûr, ils mentent – ​​c’est ce que font les politiciens ! 
 J'ai mal à l'estomac.|est-ce quelque chose que tu as mangé ? 
 est-ce quelque chose que tu as mangé ?|peut être. Je ne suis pas sûr.
@@ -2912,8 +2913,8 @@ trois personnes différentes vous raconteront trois histoires différentes.|et l
 et le gouvernement vous donnera une quatrième histoire.|Oui, 
 oui, comme le dit le gouvernement, ne vous inquiétez pas de la grippe porcine.|mais la grippe porcine vient de tuer 20 personnes au Mexique 
 mais la grippe porcine vient de tuer 20 personnes au Mexique.|le gouvernement dit que nous n'avons rien à craindre 
-le gouvernement dit que nous n'avons rien à craindre.|alors pourquoi certaines écoles disent-elles aux enfants de rester à la maison ? 
-alors pourquoi certaines écoles disent-elles aux enfants de rester à la maison ?|le gouvernement dit de se laver les mains fréquemment, et tout ira bien pour tout le monde.
+le gouvernement dit que nous n'avons rien à craindre.|alors pourquoi certaines banques disent-elles aux enfants de rester à la maison ? 
+alors pourquoi certaines banques disent-elles aux enfants de rester à la maison ?|le gouvernement dit de se laver les mains fréquemment, et tout ira bien pour tout le monde.
 ne te cure pas le nez.|je ne me curais pas le nez 
 je ne me curais pas le nez.|que faisiez-vous? 
 que faisiez-vous?|je me grattais le nez.
