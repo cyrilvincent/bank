@@ -12,4 +12,5 @@ temp/**
 **/creditcard.csv
 **/loan.csv
 **/*.pickle
+**/agent_results/**
 
