@@ -1,7 +1,6 @@
 import datetime
 import whisper # pip install openai-whisper
 import os
-import numpy as np
 from openai import OpenAI
 
 class OpenAIService:

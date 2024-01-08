@@ -1,10 +1,7 @@
 import re
-from collections import Counter
-
 import pandas as pd
 import numpy as np
 import seaborn as sns
-from imblearn.over_sampling import BorderlineSMOTE
 from matplotlib import pyplot as plt
 import plotly.graph_objects as go
 from feature_engine.selection import DropConstantFeatures, DropCorrelatedFeatures, DropDuplicateFeatures

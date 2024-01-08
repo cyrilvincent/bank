@@ -1,9 +1,7 @@
 import pickle
 import random
-import numpy as np
 import pandas as pd
 import sweetviz
-import collections
 import seaborn as sns
 from matplotlib import pyplot as plt
 import sklearn.model_selection as ms
