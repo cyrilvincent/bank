@@ -8,4 +8,4 @@ Taper python hello.py, le message Hello World doit apparaitre, suivi d'une erreu
 Taper python -m pip install requirements.txt
 Retaper hello.py il n'y a pllus d'erreur il affiche 2 numéros de version
 Pour exécuter un script python faire python num_du_script.py
-Facultatif : télécharger pycharhm community edition de jetbrains
+Facultatif : télécharger pycharm community edition de jetbrains
