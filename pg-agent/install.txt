@@ -1,5 +1,0 @@
-pip install poetry
-poetry install
-copy .env.sample .env
-MAJ .env
-poetry run start --prompt "liste des éléments de la table dept entre 30 et 39"

@@ -5,9 +5,10 @@ from openai import OpenAI
 
 class OpenAIService:
 
-    def __init__(self, whisper_model="base", chat_model="gpt-3.5-turbo-1106", chat_limit=16385):
-        os.environ["path"] += ";c:\\ffmpeg\\bin"
-        self.model = whisper.load_model(whisper_model)
+    def __init__(self, whisper_model="base", chat_model="gpt-3.5-turbo-1106", chat_limit=16385, with_whisper=False):
+        if with_whisper:
+            os.environ["path"] += ";c:\\ffmpeg\\bin"
+            self.model = whisper.load_model(whisper_model)
         with open("data/openai/openai.env") as f:
             key = f.read()
         self.client = OpenAI(api_key=key)
@@ -17,6 +18,13 @@ class OpenAIService:
     def mp3_to_text(self, path):
         result = self.model.transcribe(path)
         return result["text"].encode("utf-8").decode()
+
+    def chat(self, system: str, user: str) -> str:
+        completion = self.client.chat.completions.create(
+            model=self.chat_model,
+            messages=[{"role": "system", "content": system},
+                {"role": "user", "content": user}])
+        return completion.choices[0].message.content
 
     def summary(self, text: str, nb: int=5) -> str:
         completion = self.client.chat.completions.create(
