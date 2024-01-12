@@ -1,0 +1,20 @@
+TP1 : Milieu chapitre 6
+chat_bot_bert
+
+TP2 Fin chapitre 6
+chatgpt site Web
+ChatGpt key
+
+TP3 Fin chapitre 7
+chatgpt_prompt
+
+TP4 Fin Chapitre 9
+Prédiction Mobilnet_predict
+
+TP5 Fin Chapitre 10
+Credit_Risk
+
+TP6 Fin
+CreditCard fraud
+
+
