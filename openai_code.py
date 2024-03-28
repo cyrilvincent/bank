@@ -3,10 +3,10 @@ from openai import OpenAI
 with open("data/openai/openai.env") as f:
     key = f.read()
 
-with open("churn_cleaning.py") as f:
+with open("churn_rf.py") as f:
     text = f.read()
 
-print(text)
+#print(text)
 
 client = OpenAI(api_key=key)
 

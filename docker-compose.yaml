@@ -1,0 +1,85 @@
+version: '3.1'
+services:
+  bank-jupiter80:
+    build:
+      context: .
+    ports:
+      - 80:8888
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+      JUPYTER_TOKEN: "cyril"
+  bank-jupiter81:
+    build:
+      context: .
+    ports:
+      - 81:8888
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+      JUPYTER_TOKEN: "cyril"
+  bank-jupiter82:
+    build:
+      context: .
+    ports:
+      - 82:8888
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+      JUPYTER_TOKEN: "cyril"
+  bank-jupiter83:
+    build:
+      context: .
+    ports:
+      - 83:8888
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+      JUPYTER_TOKEN: "cyril"
+  bank-jupiter84:
+    build:
+      context: .
+    ports:
+      - 84:8888
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+      JUPYTER_TOKEN: "cyril"
+  bank-jupiter85:
+    build:
+      context: .
+    ports:
+      - 85:8888
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+      JUPYTER_TOKEN: "cyril"
+  bank-jupiter86:
+    build:
+      context: .
+    ports:
+      - 86:8888
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+      JUPYTER_TOKEN: "cyril"
+  bank-jupiter87:
+    build:
+      context: .
+    ports:
+      - 87:8888
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+      JUPYTER_TOKEN: "cyril"
+  bank-jupiter88:
+    build:
+      context: .
+    ports:
+      - 88:8888
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+      JUPYTER_TOKEN: "cyril"
+  bank-jupiter89:
+    build:
+      context: .
+    ports:
+      - 89:8888
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+      JUPYTER_TOKEN: "cyril"
+
+
+
