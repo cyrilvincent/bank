@@ -10,6 +10,7 @@ WORKDIR /app
 
 RUN apt-get update
 RUN apt-get install tree
+RUN apt-get install font-manager -qq
 
 RUN --mount=type=cache,target=/root/.cache/pip \
     --mount=type=bind,source=requirements.txt,target=requirements.txt \
@@ -18,6 +19,7 @@ RUN --mount=type=cache,target=/root/.cache/pip \
 RUN mkdir -p data
 COPY data/ ./data/
 COPY notebooks_colab/* .
+
 
 RUN tree .
 

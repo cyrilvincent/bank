@@ -59,7 +59,7 @@ services:
   bank-jupiter87:
     build:
       context: .
-    ports:
+    ports: 
       - 87:8888
     environment:
       JUPYTER_ENABLE_LAB: "yes"

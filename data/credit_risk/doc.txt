@@ -1,0 +1,8 @@
+loan_amnt: This column represents the loan amount requested by the borrower. It provides a numerical indication of the borrower’s financial needs.
+person_income: It indicates the borrower’s personal income, which serves as an essential factor in assessing their repayment capacity.
+person_age: This column captures the borrower’s age, offering insights into the relationship between age and loan default risk.
+person_home_ownership: This categorical column categorizes the borrower’s home ownership status, including options such as “RENT,” “MORTGAGE,” “OWN,” and “OTHER.” Homeownership status can be a significant factor in determining loan default risk.
+person_emp_length: It represents the borrower’s employment length, offering insights into their job stability and financial standing.
+loan_intent: This categorical column reflects the purpose or intent of the loan. Categories may include “EDUCATION,” “MEDICAL,” “VENTURE,” “PERSONAL,” “DEBTCONSOLIDATION,” and “HOMEIMPROVEMENT.” Understanding the loan intent can aid in assessing the borrower’s commitment to loan repayment.
+loan_grade: This categorical column represents the assigned loan grade, which typically indicates the borrower’s creditworthiness or risk level. Loan grades may range from “A” to “G,” with “A” being the most favorable and “G” being the riskiest.
+cb_person_default_on_file: This categorical column signifies whether the borrower has a history of defaulting on any credit products. Categories include “N” (No default) and “Y” (Default on file). This information is valuable in evaluating the borrower’s credit history and risk profile.
